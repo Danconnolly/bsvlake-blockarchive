@@ -1,0 +1,4 @@
+This is a tiny block archive for testing. It contains:
+* 5 valid tiny block files, although two are misplaced - one is in the root, one is in the wrong sub-directory
+* a strange file that is not a block file in the root (this file)
+* a strange file that has a ".bin" extension but the name is not a valid hash
